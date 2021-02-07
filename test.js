@@ -37,3 +37,15 @@ function findVal(k, ref, code, sum = 0) {
 
 }
 //---------------------------------
+
+//hackerrank
+//escape room
+let wordlist = ['APPLE', 'PLEAS', 'PLEASE']
+let keypads = ['AELWXYZ', 'AELPXYZ', 'AELPXSY', 'SAELPRT', 'XAEBKSY']
+
+let padMapHolder = []
+
+
+for (let key of keypads) {
+  const padmap = {}
+}
