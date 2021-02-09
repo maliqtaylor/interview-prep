@@ -47,5 +47,7 @@ let padMapHolder = []
 
 
 for (let key of keypads) {
-  const padmap = {}
+  const padmap = {
+    A:1
+  }
 }
